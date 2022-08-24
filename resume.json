@@ -1,0 +1,25 @@
+{
+    "Name": "Anbu Raghavan",
+    "Contact": {
+      "Mobile": 9942502245,
+      "Email": "raghavanofficials@gmail.com",
+      "Address": "North Street, Chennai - 65"
+    },
+    "Education": {
+      "Bachelor": "EGS PILLAY ARTS AND SCIENCE COLLEGE",
+      "Degree": "B.Sc - Computer Science"
+    },
+    "Skills": {
+      "microsoftOffice": "90%",
+      "typingSpeed": "70 WPM",
+      "problemSolving": "70%",
+      "teamLeadership": "80%"
+    },
+    "Project": {
+      "projectName": "Resume Builder"
+    },
+    "Experience": {
+      "xyzCompany": "Full Stack Developer",
+      "Year": "23/01/2022"
+    }
+  }
